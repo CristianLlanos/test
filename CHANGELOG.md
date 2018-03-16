@@ -1,4 +1,12 @@
 # Changelog
+## [1.2]
+
+### Changed
+- Moved D into src
+
+### Added
+- docs folder
+
 ## [1.1]
 
 ### Added
